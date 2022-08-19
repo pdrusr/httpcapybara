@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/httpcapybara/static/js/main.f9fc477f.js",
+    "main.js": "/httpcapybara/static/js/main.7cf76321.js",
     "index.html": "/httpcapybara/index.html",
-    "main.f9fc477f.js.map": "/httpcapybara/static/js/main.f9fc477f.js.map"
+    "main.7cf76321.js.map": "/httpcapybara/static/js/main.7cf76321.js.map"
   },
   "entrypoints": [
-    "static/js/main.f9fc477f.js"
+    "static/js/main.7cf76321.js"
   ]
 }
